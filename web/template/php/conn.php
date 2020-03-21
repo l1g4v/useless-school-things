@@ -1,6 +1,6 @@
 <?php
 
 mysql_connect("localhost","root","");
-mysql_select_db("users");
+mysql_select_db("database");
 
 ?>

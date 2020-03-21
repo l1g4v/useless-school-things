@@ -28,7 +28,7 @@
 
     <?php
     include('../php/conn.php');
-    $res = mysql_query("SELECT * FROM users");
+    $res = mysql_query("SELECT * FROM table_");
     while ($row = mysql_fetch_array($res)) {
       ?>
 
