@@ -1,5 +1,3 @@
 <?php
-   echo "<script>
-        self.location='html/
-        index.php';</script>";
+   echo '<script>self.location="./html/index.php";</script>';
 ?>
